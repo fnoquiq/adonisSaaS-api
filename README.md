@@ -27,3 +27,9 @@ Estudo da arquitetura SaaS usando o framework AdonisJS
 ## :dart: Rotas da API:
 
 - Para verificar as rotas disponíveis desta api, execute no terminal `adonis route:list`.
+
+---
+
+## :package: Importar configurações do Insomnia
+
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=adonisSaaS-api&uri=https%3A%2F%2Fgithub.com%2Ffnoquiq%2FadonisSaaS-api%2Fblob%2Fmaster%2Finsomnia.json)
